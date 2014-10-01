@@ -11,4 +11,4 @@ Algorithms will include all these related algorithms(not limited,although):
 * Graphs
 * Sorting Algorithms
 
-And this readme will be updated！(But I hate to say to this again,it all depends on mood,on the mood of the contributors)
+And this readme will be updated！(**But I hate to say to this again,it all depends on mood,on the mood of the contributors**)
