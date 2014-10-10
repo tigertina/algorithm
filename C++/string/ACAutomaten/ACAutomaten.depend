@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1411730187 source:/home/qingyuanxingsi/workspace/algorithms/C++/string/ACAutomaten/main.cpp
+	<iostream>
+	"Trie.h"
+
+1411729823 source:/home/qingyuanxingsi/workspace/algorithms/C++/string/ACAutomaten/src/Trie.cpp
+	"Trie.h"
+
+1411730109 /home/qingyuanxingsi/workspace/algorithms/C++/string/ACAutomaten/include/Trie.h
+	<string>
+
